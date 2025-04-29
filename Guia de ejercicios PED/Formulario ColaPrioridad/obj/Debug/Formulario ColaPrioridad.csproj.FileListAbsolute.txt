@@ -1,0 +1,10 @@
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\bin\Debug\Formulario ColaPrioridad.exe.config
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\bin\Debug\Formulario ColaPrioridad.exe
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\bin\Debug\Formulario ColaPrioridad.pdb
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario ColaPrioridad.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario_ColaPrioridad.FrmColaP.resources
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario_ColaPrioridad.Properties.Resources.resources
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario ColaPrioridad.csproj.GenerateResource.cache
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario ColaPrioridad.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario ColaPrioridad.exe
+C:\Users\WINDOWS\Downloads\Guia de ejercicios PED\Formulario ColaPrioridad\obj\Debug\Formulario ColaPrioridad.pdb

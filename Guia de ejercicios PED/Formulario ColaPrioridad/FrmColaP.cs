@@ -12,11 +12,13 @@ namespace Formulario_ColaPrioridad
 {
     public partial class FrmColaP : Form
     {
-        private ColaPrioridad ColaPacientes = new ColaPrioridad();
-            private int contadorPacientes = 1;
+        private ColaPrioridad ColaPacientes;
+            private int contadorPacientes;
         public FrmColaP()
         {
             InitializeComponent();
+            ColaPacientes = new ColaPrioridad();
+            contadorPacientes = 1;
                 panel1.BackColor = Color.FromArgb(33, 76, 125);
 
                 comboBoxEstado.Items.AddRange(new string[] { "Leve", "Estable", "Crítico" });
